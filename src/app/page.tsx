@@ -69,9 +69,10 @@ export default function Home() {
                 <Image src={model} width={100} height={100} alt="Image" /></div>
               <h3 className='text-lg font-medium pt-8 pb-2 dark:text-white'>Developing</h3>
               <p className='py-2 dark:text-white'>Seasoned software engineer with a robust foundation in software design principles and methodologies. Proficient in creating resilient, scalable, and easily maintainable software solutions tailored to intricate business needs.</p>
-              <h4 className='py-4 text-teal-600'>Technologies</h4>
+              <h4 className='py-4 text-teal-600'>Familiar With</h4>
               <p className='text-gray-800 py-1 dark:text-white'>Laravel</p>
               <p className='text-gray-800 py-1 dark:text-white'>React</p>
+              <p className='text-gray-800 py-1 dark:text-white'>Bootstrap</p>
               <p className='text-gray-800 py-1 dark:text-white'>Tailwind</p>
             </div>
 
@@ -82,10 +83,11 @@ export default function Home() {
               <p className='py-2 dark:text-white'>
 Exceptionally adept and committed expert with specialized knowledge in guaranteeing the security, privacy, and accessibility of computer systems and networks. Proficient in detecting weaknesses, assessing risks, and executing impactful strategies to fortify invaluable information assets.
               </p>
-              <h4 className='py-4 text-teal-600'>Technologies</h4>
+              <h4 className='py-4 text-teal-600'>Familiar With</h4>
               <p className='text-gray-800 py-1 dark:text-white'>Burpsuit</p>
-              <p className='text-gray-800 py-1 dark:text-white'>wireshark</p>
+              <p className='text-gray-800 py-1 dark:text-white'>Wireshark</p>
               <p className='text-gray-800 py-1 dark:text-white'>Nmap</p>
+              <p className='text-gray-800 py-1 dark:text-white'>Hydra</p>
             </div>
           </div>
         </section>
