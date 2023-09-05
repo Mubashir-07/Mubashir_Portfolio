@@ -48,9 +48,9 @@ export default function Home() {
             </p>
           </div>
           <div className='text-5xl flex justify-center gap-16 py-3 text-gray-500'>
-            <a href=""><AiFillTwitterCircle /></a>
-            <a href=""><AiFillLinkedin /></a>
-            <a href=""><AiFillGithub /></a>
+            <a href="https://github.com/Mubashir-07"><AiFillGithub /></a>
+            <a href="https://twitter.com/Mubashir_0307"><AiFillTwitterCircle/></a>
+            <a href="https://www.linkedin.com/in/mubashir-soul/"><AiFillLinkedin /></a>
           </div>
           <div className='relative mx-auto rounded-full w-80 h-80 mt-20 md:h-96 md:w-96 overflow-hidden'>
             <Image src={photo} layout="fill" objectFit='cover' alt="Profile Image" />
